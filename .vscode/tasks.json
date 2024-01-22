@@ -9,7 +9,7 @@
                 "build",
                 "-c",
                 "Debug",
-                "${workspaceFolder}/ModTemplate/ModTemplate.csproj"
+                "${workspaceFolder}/MoreCraftingTraits/MoreCraftingTraits.csproj"
             ],
             "problemMatcher": "$msCompile"
         },

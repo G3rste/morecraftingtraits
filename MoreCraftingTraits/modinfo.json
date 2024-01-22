@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "morecraftingtraits",
+    "name": "More Crafting Traits",
+    "authors": [
+        "G3rste"
+    ],
+    "description": "Add trait limitations to clay forming and smithing too",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.19.0"
+    }
+}
